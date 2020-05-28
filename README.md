@@ -5,4 +5,4 @@ L'arxiu Aules.aia el podeu importar tant en Kodular com amb App Inventor per vor
 
 Si teniu qualsevol proposta de millora serà benvinguda.
 
-La trobareu actualitzada en el PlayStore https://e.edutictac.es/app
+La trobareu actualitzada en el PlayStore https://e.edutictac.es/aules
